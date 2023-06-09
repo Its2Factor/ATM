@@ -1,4 +1,4 @@
-# ATM-Terminal-UI
+# ATM
 
 This is a simple ATM script that allows you to use these features:
 
